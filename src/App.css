@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    border-radius: 20px;
+}
+.heading{
+    font-size: 50px;
+    color: #646cff;
+    font-family: cursive;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: darkcyan;
+}
